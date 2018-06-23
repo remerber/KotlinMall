@@ -1,4 +1,4 @@
-package com.ww.mall
+package com.kotlin.mall
 
 import org.junit.Test
 
